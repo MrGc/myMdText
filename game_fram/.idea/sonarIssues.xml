@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bt.tech/redis-client/1.2.12/8ac99799ef24a486f8283ade40708e54f6dc8fc3/redis-client-1.2.12-sources.jar!/com/bt/redis/cient/AbstractRedis.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bt.tech/redis-client/1.2.12/8ac99799ef24a486f8283ade40708e54f6dc8fc3/redis-client-1.2.12-sources.jar!/com/bt/redis/cient/IRedis.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bt.tech/redis-client/1.2.12/8ac99799ef24a486f8283ade40708e54f6dc8fc3/redis-client-1.2.12-sources.jar!/com/bt/redis/cient/IRedisByteCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bt.tech/redis-client/1.2.12/8ac99799ef24a486f8283ade40708e54f6dc8fc3/redis-client-1.2.12-sources.jar!/com/bt/redis/cient/RedisCluster.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bt.tech/redis-client/1.2.12/8ac99799ef24a486f8283ade40708e54f6dc8fc3/redis-client-1.2.12-sources.jar!/com/bt/redis/cient/RedisConf.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/.idea/workspace.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/base_server/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/common/src/main/java/com/cg/util/redis/IRedis.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cross_server/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/game_server/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/scene_server/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

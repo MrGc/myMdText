@@ -6,14 +6,17 @@
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleHome" value="D:/gradle-6.8.3" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/base_server" />
             <option value="$PROJECT_DIR$/common" />
             <option value="$PROJECT_DIR$/cross_game" />
             <option value="$PROJECT_DIR$/game_server" />
             <option value="$PROJECT_DIR$/login" />
-            <option value="$PROJECT_DIR$/scene" />
+            <option value="$PROJECT_DIR$/rpc" />
+            <option value="$PROJECT_DIR$/scene_server" />
           </set>
         </option>
       </GradleProjectSettings>

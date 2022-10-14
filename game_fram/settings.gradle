@@ -1,7 +1,10 @@
 rootProject.name = 'game_fram'
 include 'common'
 include 'game_server'
-include 'scene'
+include 'scene_server'
 include 'cross_game'
 include 'login'
+include 'rpc'
+include 'base_server'
+include 'config'
 
